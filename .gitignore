@@ -47,6 +47,7 @@
 *.o_manifest
 .deps
 .libs
+.qtcreator
 Makefile
 /arm
 /arm64
